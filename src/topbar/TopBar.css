@@ -7,6 +7,7 @@
   align-items: center;
   font-family: "Josefin Sans", sans-serif;
   color: #444;
+  z-index: 999;
 }
 
 .topLeft,
